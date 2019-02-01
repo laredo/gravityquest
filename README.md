@@ -21,3 +21,4 @@ This will optimize and minimize the compiled bundle.
 
 ## Credits
 Based on the awesome [phaser-es6-webpack](https://github.com/lean/phaser-es6-webpack) project template.
+Erik Wittern for creating this awesome application
